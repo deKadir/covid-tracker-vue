@@ -1,4 +1,9 @@
-# covid-tracker-vue
+# Covid tracker 
+# Using
+- Vue
+- Tailwind
+- Covid tracker api
+
 
 ## Project setup
 ```
